@@ -1,0 +1,10 @@
+/* SELECT * FROM employee; */
+
+/* SELECT firstname, lastname  FROM employee WHERE city='Calgary'; */
+
+/* SELECT firstname,lastname, MIN(birthdate) FROM employee  */
+/* SELECT firstname,lastname, MAX(birthdate) FROM employee */
+
+/* SELECT * FROM employee WHERE reportsto= 2 */
+
+/* SELECT COUNT(*) FROM employee WHERE city ='Lethbridge'   */

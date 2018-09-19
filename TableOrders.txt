@@ -1,0 +1,24 @@
+/* CREATE TABLE Orders(
+  id integer primary key autoincrement,
+  person_id	float,
+  product_name varchar(100),
+  product_price float,
+  quantity float
+  ) */
+  
+/*   INSERT INTO orders(person_id,product_name,product_price,quantity)
+  values(1,'Tofu',5,2),
+  (1,'Noodles',7,1),
+  (2,'Rice',3,2),
+  (2,'Noodles',7,2),
+  (3,'Tofu',5,5); */
+  
+/*   SELECT * FROM orders; */
+
+/* SELECT SUM(quantity) FROM orders */
+
+/* SELECT SUM(product_price) FROM orders */
+
+/* SELECT SUM(product_price) FROM orders
+WHERE person_id = 1 */
+
